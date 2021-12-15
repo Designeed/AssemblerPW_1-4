@@ -172,7 +172,7 @@ int main()
         pop edi
             pop esi
     }
-    std::cout << "Your line: ";
+    std::cout << "Результат: ";
     std::cout << result;
 }
 
