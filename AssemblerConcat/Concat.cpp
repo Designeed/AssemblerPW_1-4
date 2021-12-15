@@ -7,7 +7,7 @@ int main()
     char result[256];
     char firstString[] = "qwerty";
     char secondString[] = "12345";
-    _asm  
+    __asm  
     {
         lea esi, [firstString]
         lea edi, [result]
