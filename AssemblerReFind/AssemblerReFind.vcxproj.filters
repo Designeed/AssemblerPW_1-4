@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="ReFind.cpp">
+    <ClCompile Include="Find.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>

@@ -9,9 +9,7 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AssemblerCopy", "AssemblerP
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AssemblerDelete", "AssemblerDelete\AssemblerDelete.vcxproj", "{29E035FE-1F52-4F7A-85B1-17E5B340926E}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AssemblerFind", "AssemblerFind\AssemblerFind.vcxproj", "{E75FA335-E644-4818-9F58-AA8701DB6FF3}"
-EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AssemblerReFind", "AssemblerReFind\AssemblerReFind.vcxproj", "{4707F1ED-C97F-4FA7-AD2E-5D36940CB60C}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AssemblerFind", "AssemblerReFind\AssemblerReFind.vcxproj", "{4707F1ED-C97F-4FA7-AD2E-5D36940CB60C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,14 +43,6 @@ Global
 		{29E035FE-1F52-4F7A-85B1-17E5B340926E}.Release|x64.Build.0 = Release|x64
 		{29E035FE-1F52-4F7A-85B1-17E5B340926E}.Release|x86.ActiveCfg = Release|Win32
 		{29E035FE-1F52-4F7A-85B1-17E5B340926E}.Release|x86.Build.0 = Release|Win32
-		{E75FA335-E644-4818-9F58-AA8701DB6FF3}.Debug|x64.ActiveCfg = Debug|x64
-		{E75FA335-E644-4818-9F58-AA8701DB6FF3}.Debug|x64.Build.0 = Debug|x64
-		{E75FA335-E644-4818-9F58-AA8701DB6FF3}.Debug|x86.ActiveCfg = Debug|Win32
-		{E75FA335-E644-4818-9F58-AA8701DB6FF3}.Debug|x86.Build.0 = Debug|Win32
-		{E75FA335-E644-4818-9F58-AA8701DB6FF3}.Release|x64.ActiveCfg = Release|x64
-		{E75FA335-E644-4818-9F58-AA8701DB6FF3}.Release|x64.Build.0 = Release|x64
-		{E75FA335-E644-4818-9F58-AA8701DB6FF3}.Release|x86.ActiveCfg = Release|Win32
-		{E75FA335-E644-4818-9F58-AA8701DB6FF3}.Release|x86.Build.0 = Release|Win32
 		{4707F1ED-C97F-4FA7-AD2E-5D36940CB60C}.Debug|x64.ActiveCfg = Debug|x64
 		{4707F1ED-C97F-4FA7-AD2E-5D36940CB60C}.Debug|x64.Build.0 = Debug|x64
 		{4707F1ED-C97F-4FA7-AD2E-5D36940CB60C}.Debug|x86.ActiveCfg = Debug|Win32
